@@ -24,3 +24,4 @@ A simple React + Vite project for practicing forms and `useState`.
 
 ## Note
 This is an educational front-end demo. Data is kept only in React state, so it is cleared on refresh. The password is displayed because the exercise requests displaying all entered details. Do not use this approach for a real application; real systems should never display passwords and must use secure server-side authentication and password hashing.
+"# external-end" 
